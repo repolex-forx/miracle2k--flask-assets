@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/miracle2k/flask-assets/commit/62efd23fe95ee6a86fc1cfaa98fc1e2152093557",
       "git:hexsha": "62efd23fe95ee6a86fc1cfaa98fc1e2152093557",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/miracle2k/flask-assets/commit/726cf7d8be97b111ad8a887f07fcf4bd5e59441b",
