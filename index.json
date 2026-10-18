@@ -1,0 +1,11 @@
+{
+  "org": "miracle2k",
+  "repo": "flask-assets",
+  "versions": [
+    {
+      "commit": "62efd23fe95ee6a86fc1cfaa98fc1e2152093557",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:17:58.405307+00:00"
+    }
+  ]
+}
